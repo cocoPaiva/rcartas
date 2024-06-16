@@ -1,0 +1,17 @@
+  .contenedor{
+    background-color:aquamarine;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 5px;
+  }
+  
+  .caja{
+    border-radius: 12px;
+    border: 1px solid maroon;
+    padding: 10px;
+    background-color: antiquewhite;
+  }
+  .logo{
+    width: 20%;
+  }
